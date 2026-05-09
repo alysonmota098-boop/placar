@@ -1,0 +1,37 @@
+[
+  {
+    "name": "COMBINADO",
+    "abbr": "COM",
+    "color": "#ff1f1f"
+  },
+  {
+    "name": "VILA BELMIRO",
+    "abbr": "VIL",
+    "color": "#ff1f1f"
+  },
+  {
+    "name": "ESTREITO FC",
+    "abbr": "EST",
+    "color": "#29c900"
+  },
+  {
+    "name": "CASCUDO BASE",
+    "abbr": "CAS",
+    "color": "#ff1f1f"
+  },
+  {
+    "name": "AMIGOS DE LUÍS SÉRGIO",
+    "abbr": "ALS",
+    "color": "#0055ff"
+  },
+  {
+    "name": "FM ALENCAR",
+    "abbr": "FMA",
+    "color": "#32c700"
+  },
+  {
+    "name": "BOA VISTA FC",
+    "abbr": "BOA",
+    "color": "#32c700"
+  }
+]

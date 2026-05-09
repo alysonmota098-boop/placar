@@ -1,0 +1,17 @@
+OLHO NO LANCE TV - VERSÃO ONLINE
+
+Como publicar:
+1. Crie conta grátis no Netlify.
+2. Clique em "Add new site" > "Deploy manually".
+3. Envie a pasta descompactada ou o ZIP deste projeto.
+4. Depois de publicado, use:
+   https://SEU-SITE.netlify.app/control.html
+   https://SEU-SITE.netlify.app/overlay.html
+
+No OBS:
+- Adicione Fonte do Navegador.
+- Cole o link do overlay.html.
+- Largura: 1920
+- Altura: 1080
+
+Essa versão usa Netlify Functions + Netlify Blobs para sincronizar o placar online.
